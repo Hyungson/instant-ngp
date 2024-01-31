@@ -20,8 +20,11 @@ finetuning을 하지 않은 one-2-3-45 inference 보단 3d reconstruction 성능
 
 #### one-2-3-45 인퍼런스 예시
 우리 집 고양이 레미 사진을 누끼따서 한장으로 inference 한 결과
+
 ![ezgif com-video-to-gif-converter](https://github.com/Hyungson/instant-ngp/assets/103267793/fc728bf6-f984-4f23-9a0f-9faf5b890583)
+
 뒷 부분의 view synthesis가 부족해 보인다.
+
 프로젝트 진행 당시에는 코드가 오픈되어 있지 않아서 파인 튜닝을 시도조차 해보지 못했던게 아쉽다.
 
 ****
